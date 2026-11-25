@@ -1,0 +1,14 @@
+# Fridge-note build ignores — python bytecode, local runs and editor clutter.
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+output/
+entry.txt
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
